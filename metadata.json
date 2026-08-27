@@ -1,0 +1,6 @@
+{
+  "name": "Smart Inverter Pro",
+  "description": "Real-time Smart Inverter & Solar Power Monitoring and Control Dashboard with battery analytics and relays",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
